@@ -1,0 +1,40 @@
+
+
+body{
+ font-family: "Avenir Next";
+ text-align: center;
+ background-image: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials.jpg");
+    }
+  
+.desc-gist{
+  
+  margin:20px 70px;
+  font-size:30px;
+  padding:40px 15px;
+  text-shadow:1px 1px lightgray;
+  color: white;
+  border:1px solid white;
+  
+}
+
+.desc-heading{
+ font-size:50px;
+ font-family:"lucida handwriting",cursive;
+ color:yellow;
+}
+
+.desc-process{
+  font-weight:bold;
+  margin:20px;
+  font-size:25px;
+ }
+
+.desc-button{
+   
+ 
+padding: 15px 30px;
+font-size :20px;
+background-color :yellow;
+color:black;
+border-radius :12px;
+}
